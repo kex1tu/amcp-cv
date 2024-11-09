@@ -1,1 +1,1 @@
-Link to my CV https://kex1tu.github.io/amcp-cv/cv
+https://kex1tu.github.io/amcp-cv/cv
