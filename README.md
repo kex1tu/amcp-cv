@@ -1,1 +1,1 @@
-https://github.com/kex1tu/amcp-cv/gh-pages/cv.md
+https://kex1tu.github.io/amcp-cv/cv
