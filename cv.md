@@ -1,3 +1,4 @@
+![](https://github.com/kex1tu/amcp-cv/blob/gh-pages/my%20photo.jpeg?raw=true)
 # Mikheyev Grigoriy 17 y.o.
 Young programmer from Sevastopol, who likes coding and creating efficient. Have been practicing pythin for more than 3 years, and C++ for more than 2 years. Have experience in both team development and single software development.
 ## Contacts
