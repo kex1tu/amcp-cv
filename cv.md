@@ -14,7 +14,7 @@ Facebook:
 - [https://www.facebook.com/kex1t/](https://www.facebook.com/kex1t/)
 
 ## Education
-Now I'm studying Prorgramming and Information Technologies at the Faculty of Applied Mathematics and Control Processes at Saint Petersburg State University. Studied Constructive Geometry at International Children's Center Artek.
+Now I'm studying Prorgramming and Information Technologies at the Faculty of Applied Mathematics and Control Processes at Saint Petersburg State University. I've studied Constructive Geometry at International Children's Center Artek with teachers from Rosatom.
 
 ## Language proficiency
 - Russian Native
